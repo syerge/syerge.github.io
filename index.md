@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Shrikant Yerge
+[LinkedIn](https://www.linkedin.com/in/syerge/)
 
 You can use the [editor on GitHub](https://github.com/syerge/syerge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
