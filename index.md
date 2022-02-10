@@ -35,8 +35,8 @@ div.cls_014{font-family:Times,serif;font-size:17.3px;color:rgb(146,87,253);font-
 <body>
 <div style="position:absolute;left:50%;margin-left:-306px;top:0px;width:612px;height:792px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
-<img src="55049316-8a6b-11ec-a980-0cc47a792c0a_id_55049316-8a6b-11ec-a980-0cc47a792c0a_files/background1.jpg" width=612 height=792></div>
-<div style="position:absolute;left:179.94px;top:0.00px" class="cls_002"><span class="cls_002">Shrikant Yerge</span></div>
+<!---img src="55049316-8a6b-11ec-a980-0cc47a792c0a_id_55049316-8a6b-11ec-a980-0cc47a792c0a_files/background1.jpg" width=612 height=792--></div>
+<h1><center>Shrikant Yerge</center></h1>
 <div style="position:absolute;left:86.77px;top:66.94px" class="cls_008"><span class="cls_008">Contact</span></div>
 <div style="position:absolute;left:158.74px;top:62.55px" class="cls_003"><span class="cls_003">Ski</span><span class="cls_004">lls</span></div>
 <div style="position:absolute;left:158.74px;top:88.05px" class="cls_005"><span class="cls_005">Azure</span><span class="cls_006">,</span><span class="cls_005"> Azure DevOps (TFS)</span><span class="cls_006">,</span><span class="cls_005"> Ansible</span><span class="cls_006">,</span><span class="cls_005"> GitHub Enterprise</span><span class="cls_006"> MS SQL DBA</span></div>
@@ -50,11 +50,11 @@ div.cls_014{font-family:Times,serif;font-size:17.3px;color:rgb(146,87,253);font-
 <div style="position:absolute;left:72.17px;top:155.01px" class="cls_006"><span class="cls_006">Pune 411038</span></div>
 <div style="position:absolute;left:158.74px;top:153.80px" class="cls_006"><span class="cls_006">Point to Site (P2S) and Site to Site (S2S), configuration of VNETs and their peering,implementing</span></div>
 <div style="position:absolute;left:158.74px;top:165.76px" class="cls_006"><span class="cls_006">load balancer, gateways, configuration of NSG’s), Azure AD (Integration of On-prem AD with Azure</span></div>
-<div style="position:absolute;left:121.85px;top:178.92px" class="cls_007"><span class="cls_007"> </span><A HREF="https://www.linkedin.com/in/syerge"></A> </div>
+<div style="position:absolute;left:121.85px;top:178.92px" class="cls_007"><span class="cls_007"> </span><A HREF="https://www.linkedin.com/in/syerge">L</A> </div>
 <div style="position:absolute;left:158.74px;top:177.71px" class="cls_006"><span class="cls_006">AD, user and their device management, configuration of MFA, security),Azure SQL (migration of</span></div>
-<div style="position:absolute;left:121.85px;top:190.88px" class="cls_007"><span class="cls_007"> </span><A HREF="https://github.com/syerge"></A> </div>
+<div style="position:absolute;left:121.85px;top:190.88px" class="cls_007"><span class="cls_007"> </span><A HREF="https://github.com/syerge">G</A> </div>
 <div style="position:absolute;left:158.74px;top:189.67px" class="cls_006"><span class="cls_006">on-prem SQL to Azure, creation of new databases and their user management).</span></div>
-<div style="position:absolute;left:120.43px;top:202.83px" class="cls_007"><span class="cls_007"> </span><A HREF="https://medium.com/@syerge"></A> </div>
+<div style="position:absolute;left:120.43px;top:202.83px" class="cls_007"><span class="cls_007"> </span><A HREF="https://medium.com/@syerge">M</A> </div>
 <div style="position:absolute;left:158.74px;top:207.60px" class="cls_006"><span class="cls_006">Holding expertise in implementing Azure Infrastructure as code(IaC) with Ansible.</span></div>
 <div style="position:absolute;left:68.88px;top:222.36px" class="cls_008"><span class="cls_008">Experience</span></div>
 <div style="position:absolute;left:158.74px;top:225.53px" class="cls_006"><span class="cls_006">Proficient knowledge of on-prem TFS/Azure DevOps Server (2012/15/18/19) upgrading them to</span></div>
