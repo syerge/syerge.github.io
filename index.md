@@ -111,7 +111,7 @@ div.cls_014{font-family:Times,serif;font-size:17.3px;color:rgb(146,87,253);font-
 </div>
 <div style="position:absolute;left:50%;margin-left:-306px;top:802px;width:612px;height:792px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
-<img src="55049316-8a6b-11ec-a980-0cc47a792c0a_id_55049316-8a6b-11ec-a980-0cc47a792c0a_files/background2.jpg" width=612 height=792></div>
+<!--img src="55049316-8a6b-11ec-a980-0cc47a792c0a_id_55049316-8a6b-11ec-a980-0cc47a792c0a_files/background2.jpg" width=612 height=792--></div>
 <div style="position:absolute;left:158.74px;top:47.33px" class="cls_013"><span class="cls_013">Cer</span><span class="cls_004">tifications</span></div>
 <div style="position:absolute;left:158.74px;top:76.08px" class="cls_006"><span class="cls_006">2020</span></div>
 <div style="position:absolute;left:220.82px;top:76.08px" class="cls_005"><span class="cls_005">Microsoft Certified Trainer</span></div>
